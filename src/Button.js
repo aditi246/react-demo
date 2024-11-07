@@ -10,7 +10,7 @@ export default function Gallery() {
     return (
       <section>
         <h1>Amazing scientists</h1>
-        Hi my name is react
+        Hi my name is react!
 
         <button onClick={clickButton}>
             click me!
